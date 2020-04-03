@@ -1,0 +1,47 @@
+body{
+    font-family: arial, sans-serif;
+}
+
+.navleft2{
+    float: left;
+    padding-top: 10px;
+}
+
+.navleft{
+    display: inline-block;
+    padding-left: 15px;
+    color: #000;
+    opacity: 0.75;
+    font-size: 0.85em;
+    text-decoration: none;
+    
+}
+
+.navright2{
+    text-align: right;
+    padding-top: 10px;
+}
+
+.navright{
+    display: inline-block;
+    line-height: 24px;
+    color: #000;
+    opacity: 0.75;
+    font-size: 0.85em;
+    text-decoration: none;
+    vertical-align: middle;
+    padding-left: 15px;
+}
+
+.signin{
+    display: inline-block;
+    padding-left: 15px;
+    color: #000;
+    opacity: 0.75;
+    font-size: 0.85em;
+    text-decoration: none;
+}
+
+.google{
+    padding-left: 36.5%;
+}
