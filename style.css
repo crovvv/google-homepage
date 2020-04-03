@@ -35,13 +35,47 @@ body{
 
 .signin{
     display: inline-block;
-    padding-left: 15px;
+    margin-left: 15px;
     color: #000;
     opacity: 0.75;
     font-size: 0.85em;
     text-decoration: none;
+    background-color: #144eee;
+    border:none;
+    height: 30px;
+    color: white;
+    border-radius: 2px;
 }
 
 .google{
     padding-left: 36.5%;
+}
+
+.searchbar{
+   display: block;
+   margin-left: 33.2%;
+   width: 600px;
+   height: 40px;
+   margin-top: 20px;
+   box-shadow: 2px 4px 8px 2px rgba(0, 0, 0, 0.123), 2px 6px 20px 2px rgba(0, 0, 0, 0.034);
+   border-radius: 20px;
+   border: none;
+}
+
+.searchbuttons{
+    display: inline-block;
+    margin-left: 42.5%;
+    margin-top: 30px;
+    
+}
+
+.button{
+    background-color: rgba(0, 0, 0, 0.059);
+    height: 40px;
+    color: rgba(0, 0, 0, 0.473);
+    text-decoration: none;
+    border-radius: 3px;
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.055), 0 6px 20px 0 rgba(0, 0, 0, 0.007);
+    margin-right: 10px;
 }
